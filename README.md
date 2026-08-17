@@ -60,6 +60,9 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1547" height="920" alt="Screenshot 2026-08-17 103403" src="https://github.com/user-attachments/assets/f4568116-7083-4bc1-9b11-86f0894edc68" />
+
+
 
 
 
