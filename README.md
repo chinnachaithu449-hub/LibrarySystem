@@ -71,6 +71,9 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="1265" height="737" alt="Screenshot 2026-08-17 113944" src="https://github.com/user-attachments/assets/27ce1a44-b205-4fa7-a82a-a788ecbe815c" />
+
+
 
 
 
@@ -83,6 +86,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1132" height="678" alt="Screenshot 2026-08-17 114118" src="https://github.com/user-attachments/assets/58a4edd8-5a99-43bd-8431-1ccf7abcc6a5" />
 
 
 
@@ -101,7 +105,10 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-<img width="1562" height="906" alt="Screenshot 2026-08-17 110905" src="https://github.com/user-attachments/assets/56d03b54-6280-4e2a-b099-2636ec159757" />
+<img width="1562" height="906" alt="Screenshot 2026-08-17 110905" src="https://github.com/user-attachments/assets/b86af00e-c331-4a07-8de3-9a9db5aaf940" />
+
+
+
 
 
 
@@ -125,7 +132,8 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-<img width="920" height="535" alt="Screenshot 2026-08-17 112331" src="https://github.com/user-attachments/assets/aeb8ce40-520f-4489-a778-943a818ed92b" />
+<img width="1247" height="733" alt="Screenshot 2026-08-17 113809" src="https://github.com/user-attachments/assets/fffc2e53-31ba-4d89-95ef-c492aed2809c" />
+
 
 
 
